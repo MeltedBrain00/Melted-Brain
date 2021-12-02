@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body{
+    height: 100%;
+}
+
+.sobre{
+    padding: 5vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulos{
+    font-family: 'Lato', sans-serif;
+    color: darkslateblue;
+}
+
+.titulogaleria{
+    font-family: 'Lato', sans-serif;
+    color: darkslateblue;
+    margin-left: -0.7%;
+}
+
+.carousel-caption{
+    font-size: 4vh;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.jogadores{
+    padding-left: 9vh;
+    padding-bottom: 5vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.video{
+    box-shadow: black 0.1em 0.1em 0.2em;
+
+}
+
+.biografias{
+    padding-left: 5vh;
+    padding-right: 5vh;
+    padding-bottom: 5vh;
+    font-family: 'Roboto', sans-serif;
+}
+
